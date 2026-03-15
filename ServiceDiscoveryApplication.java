@@ -1,4 +1,4 @@
-package com.microsservicos.servicediscovery;
+package com.microsservicos.discovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
